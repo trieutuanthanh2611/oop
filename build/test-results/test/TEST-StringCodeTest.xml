@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCodeTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-10-02T16:18:56" hostname="TRTHANH-PC" time="0.006">
+  <properties/>
+  <testcase name="testMaxRun_BasicCases" classname="StringCodeTest" time="0.002"/>
+  <testcase name="testStringIntersect_BasicTrueCases" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_DigitsNextToEachOther" classname="StringCodeTest" time="0.001"/>
+  <testcase name="testMaxRun_NotSureWhyNeeded" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testMaxRun_LongestAtBeginning" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testStringIntersect_EmptyStrings" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_DigitAtEnd" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testMaxRun_SpecialCases" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_DigitsOnly" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_DigitZero" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testStringIntersect_LenOne" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testStringIntersect_BasicFalseCases" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testStringIntersect_FullLength" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_BasicCases" classname="StringCodeTest" time="0.001"/>
+  <testcase name="testMaxRun_LongestAtEnd" classname="StringCodeTest" time="0.0"/>
+  <testcase name="testBlowup_WeirdChars" classname="StringCodeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
